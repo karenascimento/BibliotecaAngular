@@ -1,0 +1,18 @@
+nav {
+    background-color: #c55220; 
+    padding: 25px; 
+}
+  
+nav a {
+    color: #ffffff; 
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+  
+nav a:hover {
+    background-color: #22324c9e;
+    color: #61dafb;
+}
+  
